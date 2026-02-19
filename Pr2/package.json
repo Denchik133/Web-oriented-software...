@@ -1,0 +1,21 @@
+{
+  "name": "pr2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "pr2": {
+    "type": "git",
+    "url": "git+https://github.com/Denchik133/Web-oriented-software....git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Denchik133/Web-oriented-software.../issues"
+  },
+  "homepage": "https://github.com/Denchik133/Web-oriented-software...#readme"
+}
