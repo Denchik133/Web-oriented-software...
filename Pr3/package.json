@@ -1,5 +1,8 @@
 {
   "name": "pr3",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
