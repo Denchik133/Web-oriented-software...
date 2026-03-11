@@ -28,3 +28,21 @@ h1 {
   background: #e3e7ff;
   border-radius: 5px;
 }
+
+button {
+  padding: 6px 10px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  background: #667eea;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #5563d1;
+}
+
+input {
+  padding: 6px;
+}
